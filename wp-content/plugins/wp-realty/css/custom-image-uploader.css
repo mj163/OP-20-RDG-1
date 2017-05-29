@@ -1,0 +1,32 @@
+.field_left {
+        float:left;
+      }
+ 
+      .field_right {
+        float:left;
+        margin-left:10px;
+      }
+ .field_right .button:first-child{
+	margin-bottom:5px; 
+ }
+      .clear {
+        clear:both;
+      }
+ 
+      #dynamic_form {
+        width: 80%; /*580px;*/
+      }
+ 
+      #dynamic_form input[type=text] {
+        width:300px;
+      }
+ 
+      #dynamic_form .field_row {
+        border:1px solid #dedede;
+        margin-bottom:10px;
+        padding:10px;
+      }
+ 
+      #dynamic_form label {
+        padding:0 6px;
+      }

@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://rdolcegroup-thkarma.flywheelsites.com
+Data file = /www/wp-content/uploads/2017/04/demo-content-import-file_2017-04-14__22-43-19.xml
+Widget file = /www/wp-content/uploads/2017/04/demo-widgets-import-file_2017-04-14__22-43-19.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Toolbar - Left Side : 
+
+Custom Menu - No Title - Imported
+
+Toolbar - Right Side : 
+
+CUSTOM - Social Networks - No Title - Imported
+
+Blog Sidebar : 
+
+Text - Sidebar - Imported
+CUSTOM - Social Networks - Social Icons - Imported
+
+Search Results Sidebar : 
+
+Text - Sidebar - Imported
+
+Contact Sidebar (iPhone) : 
+
+CUSTOM - Social Networks - Let&#039;s Socialize - Imported
+Text - No Title - Imported
+
+First Footer Column : 
+
+Text - From the Blog - Imported
+
+Second Footer Column : 
+
+CUSTOM - Social Networks - Social Networks - Imported
+Text - Talk to us - Imported
+
+Third Footer Column : 
+
+Text - Newsletter Signup - Imported
+
+WooCommerce - Cart + Checkout : 
+
+Text - Sidebar - Imported
+
+bbPress Forum : 
+
+(bbPress) Login Widget - Member Login - Imported
+(bbPress) Statistics - Forum Statistics - Imported
+(bbPress) Forum Search Form - Search Forums - Imported
+
+
+
+---pt-ocdi/after_import---
+

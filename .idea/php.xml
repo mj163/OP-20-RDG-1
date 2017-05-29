@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="op20-merge.dev" id="4912608" name="Local by Flywheel" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/app/public" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+</project>

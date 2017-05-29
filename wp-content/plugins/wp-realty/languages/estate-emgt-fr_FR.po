@@ -1,0 +1,2092 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate Management V1.0\n"
+"POT-Creation-Date: 2016-05-18 16:57+0530\n"
+"PO-Revision-Date: 2016-05-18 17:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: add_listing_post.php:37
+msgid "Add New Property"
+msgstr "Ajouter une nouvelle propriété"
+
+#: add_listing_post.php:38
+msgid "New Property"
+msgstr "Nouveau bien"
+
+#: add_listing_post.php:39
+msgid "Edit Property"
+msgstr "Modifier l'annonce"
+
+#: add_listing_post.php:40
+msgid "View Property"
+msgstr "Voir la propriété"
+
+#: add_listing_post.php:41
+msgid "Property Management"
+msgstr "Dom"
+
+#: add_listing_post.php:42
+msgid "Search Properties"
+msgstr "Rechercher des Propriétés"
+
+#: add_listing_post.php:43
+msgid "Parent Properties:"
+msgstr "Propriétés du parent:"
+
+#: add_listing_post.php:44
+msgid "No Properties found."
+msgstr "Aucune propriété trouvée."
+
+#: add_listing_post.php:45
+msgid "No Properties found in Trash."
+msgstr "Aucune propriété dans la Corbeille."
+
+#: add_listing_post.php:50
+msgid "Description."
+msgstr "Description"
+
+#: add_listing_post.php:79
+msgid "Search Bathrooms"
+msgstr "Rechercher une salle de bains"
+
+#: add_listing_post.php:80
+msgid "All Bathrooms"
+msgstr "Toutes les salles de bain"
+
+#: add_listing_post.php:81
+msgid "Parent Bathrooms"
+msgstr "Parent"
+
+#: add_listing_post.php:82
+msgid "Parent Bathrooms:"
+msgstr "Parent"
+
+#: add_listing_post.php:83
+msgid "Edit Bathrooms"
+msgstr "Modifier une salle de bains"
+
+#: add_listing_post.php:84
+msgid "Update Bathrooms"
+msgstr "Mise à jour de salles de bains"
+
+#: add_listing_post.php:85
+msgid "Add New Bathrooms"
+msgstr "Ajouter de nouvelles salles de bains"
+
+#: add_listing_post.php:86
+msgid "New Bathrooms Name"
+msgstr "Nouveau nom de salles de bains"
+
+#: add_listing_post.php:87
+msgid "Bathrooms"
+msgstr "Salles de bains"
+
+#: add_listing_post.php:111
+msgid "Search Bedrooms"
+msgstr "Rechercher des Propriétés"
+
+#: add_listing_post.php:112
+msgid "All Bedrooms"
+msgstr "Toutes les chambres"
+
+#: add_listing_post.php:113
+msgid "Parent Bedrooms"
+msgstr "Parent"
+
+#: add_listing_post.php:114
+msgid "Parent Bedrooms:"
+msgstr "Parent"
+
+#: add_listing_post.php:115
+msgid "Edit Bedrooms"
+msgstr "Modifier l'annonce"
+
+#: add_listing_post.php:116
+msgid "Update Bedrooms"
+msgstr "Mise à jour de salles de bains"
+
+#: add_listing_post.php:117
+msgid "Add New Bedrooms"
+msgstr "Ajouter une nouvelle propriété"
+
+#: add_listing_post.php:118
+msgid "New Bedrooms Name"
+msgstr "Nouveau nom de salles de bains"
+
+#: add_listing_post.php:119 template/emgt_property_list.php:102
+#: template/searched_properties.php:109
+msgid "Bedrooms"
+msgstr "Chambres"
+
+#: add_listing_post.php:147
+msgid "Search Status"
+msgstr "Rechercher une salle de bains"
+
+#: add_listing_post.php:148
+msgid "All Status"
+msgstr "Toutes les chambres"
+
+#: add_listing_post.php:149
+msgid "Parent Status"
+msgstr "Status parent"
+
+#: add_listing_post.php:150
+msgid "Parent Status:"
+msgstr "Statut parent :"
+
+#: add_listing_post.php:151
+msgid "Edit Status"
+msgstr "Modifier le statut"
+
+#: add_listing_post.php:152
+msgid "Update Status"
+msgstr "Mise à jour de salles de bains"
+
+#: add_listing_post.php:153
+msgid "Add New Status"
+msgstr "Ajouter nouveau statut"
+
+#: add_listing_post.php:154
+msgid "New Status Name"
+msgstr "Nouveau nom du statut"
+
+#: add_listing_post.php:155 admin/case_manage/case_manage.php:30
+#: admin/case_manage/case_manage.php:41 admin/case_manage/index.php:189
+#: admin/case_manage/index.php:200 admin/inquiry/add_task.php:118
+#: admin/inquiry/add_task.php:125 admin/task_manage/index.php:217
+#: admin/task_manage/index.php:225 emgt_ajax_functions.php:47
+#: emgt_ajax_functions.php:268
+msgid "Status"
+msgstr "Ajouter nouveau statut"
+
+#: add_listing_post.php:181
+msgid "Search City"
+msgstr "Rechercher une salle de bains"
+
+#: add_listing_post.php:182
+msgid "All City"
+msgstr "Toutes les chambres"
+
+#: add_listing_post.php:183
+msgid "Parent City"
+msgstr "Parent"
+
+#: add_listing_post.php:184
+msgid "Parent City:"
+msgstr "Parent"
+
+#: add_listing_post.php:185
+msgid "Edit City"
+msgstr "Modifier le statut"
+
+#: add_listing_post.php:186
+msgid "Update City"
+msgstr "Mise à jour de salles de bains"
+
+#: add_listing_post.php:187
+msgid "Add New City"
+msgstr "Ajouter nouveau statut"
+
+#: add_listing_post.php:188
+msgid "New City Name"
+msgstr "Nouveau nom du statut"
+
+#: add_listing_post.php:189
+msgid "City"
+msgstr "Ajouter nouveau statut"
+
+#: add_listing_post.php:217
+msgid "Search State"
+msgstr "Rechercher une salle de bains"
+
+#: add_listing_post.php:218
+msgid "All State"
+msgstr "Toutes les chambres"
+
+#: add_listing_post.php:219
+msgid "Parent State"
+msgstr "Parent"
+
+#: add_listing_post.php:220
+msgid "Parent State:"
+msgstr "Parent"
+
+#: add_listing_post.php:221
+msgid "Edit State"
+msgstr "Modifier le statut"
+
+#: add_listing_post.php:222
+msgid "Update State"
+msgstr "Mise à jour de salles de bains"
+
+#: add_listing_post.php:223
+msgid "Add New State"
+msgstr "Ajouter nouveau statut"
+
+#: add_listing_post.php:224
+msgid "New State Name"
+msgstr "Nouveau nom du statut"
+
+#: add_listing_post.php:225
+msgid "State"
+msgstr "Ajouter nouveau statut"
+
+#: add_listing_post.php:250
+msgid "Search Zipcode"
+msgstr "Rechercher une salle de bains"
+
+#: add_listing_post.php:251
+msgid "All Zipcode"
+msgstr "Toutes les chambres"
+
+#: add_listing_post.php:252
+msgid "Parent Zipcode"
+msgstr "Parent"
+
+#: add_listing_post.php:253
+msgid "Parent Zipcode:"
+msgstr "Propriétés du parent:"
+
+#: add_listing_post.php:254
+msgid "Edit Zipcode"
+msgstr "Modifier l'annonce"
+
+#: add_listing_post.php:255
+msgid "Update Zipcode"
+msgstr "Mise à jour de salles de bains"
+
+#: add_listing_post.php:256
+msgid "Add New Zipcode"
+msgstr "Ajouter une nouvelle propriété"
+
+#: add_listing_post.php:257
+msgid "New Zipcode Name"
+msgstr "Nouveau nom du statut"
+
+#: add_listing_post.php:258
+msgid "Zipcode"
+msgstr "Ajouter une nouvelle propriété"
+
+#: add_listing_post.php:284
+msgid "Search Additional Features"
+msgstr "Rechercher des Propriétés"
+
+#: add_listing_post.php:285
+msgid "All Additional Features"
+msgstr "Toutes les salles de bain"
+
+#: add_listing_post.php:286
+msgid "Parent Additional Features"
+msgstr "Propriétés du parent:"
+
+#: add_listing_post.php:287
+msgid "Parent Additional Features:"
+msgstr "Propriétés du parent:"
+
+#: add_listing_post.php:288
+msgid "Edit Additional Features"
+msgstr "Modifier une salle de bains"
+
+#: add_listing_post.php:289
+msgid "Update Additional Features"
+msgstr "Mise à jour de salles de bains"
+
+#: add_listing_post.php:290
+msgid "Add New Additional Features"
+msgstr "Ajouter de nouvelles salles de bains"
+
+#: add_listing_post.php:291
+msgid "New Additional Features Name"
+msgstr "Nouveau nom de salles de bains"
+
+#: add_listing_post.php:292
+msgid "Additional Features"
+msgstr "Toutes les salles de bain"
+
+#: add_listing_post.php:318
+msgid "Search Property Types"
+msgstr "Nouveau bien"
+
+#: add_listing_post.php:319
+msgid "All Property Types"
+msgstr "Toutes les salles de bain"
+
+#: add_listing_post.php:320
+msgid "Parent Property Types"
+msgstr "Nouveau bien"
+
+#: add_listing_post.php:321
+msgid "Parent Property Types:"
+msgstr "Nouveau bien"
+
+#: add_listing_post.php:322
+msgid "Edit Property Types"
+msgstr "Modifier l'annonce"
+
+#: add_listing_post.php:323
+msgid "Update Property Types"
+msgstr "Mise à jour de salles de bains"
+
+#: add_listing_post.php:324
+msgid "Add New Property Types"
+msgstr "Ajouter une nouvelle propriété"
+
+#: add_listing_post.php:325
+msgid "New Property Types"
+msgstr "Ajouter une nouvelle propriété"
+
+#: add_listing_post.php:326
+msgid "Property Types"
+msgstr "Modifier l'annonce"
+
+#: add_listing_post.php:416 add_listing_post.php:447 add_listing_post.php:645
+#: add_listing_post.php:676
+msgid "Image URL"
+msgstr "Ajouter nouveau statut"
+
+#: add_listing_post.php:430 add_listing_post.php:454 add_listing_post.php:659
+#: add_listing_post.php:683
+msgid "Select Image"
+msgstr "\"#: admin/staff-members/add_staff.php:11"
+
+#: add_listing_post.php:431 add_listing_post.php:456 add_listing_post.php:660
+#: add_listing_post.php:685
+msgid "Remove"
+msgstr "Supprimer"
+
+#: add_listing_post.php:463 add_listing_post.php:692
+msgid "Add Image"
+msgstr "Ajouter nouveau statut"
+
+#: add_listing_post.php:524 admin/case_manage/add_contract.php:24
+#: admin/payment/assignt_plan.php:61 admin/settings/settings.php:49
+#: admin/user_manage/add_user.php:50 template/registration_page.php:225
+#: template/registration_page.php:298 template/view_profile.php:61
+msgid "Address"
+msgstr "Adresse"
+
+#: add_listing_post.php:528
+msgid "Longitude"
+msgstr "Longitude"
+
+#: add_listing_post.php:531
+msgid "Latitude"
+msgstr "Latitude"
+
+#: add_listing_post.php:537
+msgid "OR"
+msgstr "OU"
+
+#: add_listing_post.php:540
+msgid "Find Coordinate"
+msgstr "Trouver les coordonnées"
+
+#: add_listing_post.php:561
+msgid "This feature is not available in subscribed plan."
+msgstr "Cette fonctionnalité n’est pas disponible dans le plan souscrit."
+
+#: add_listing_post.php:601 template/single-property.php:442
+msgid "Video"
+msgstr "Vidéo"
+
+#: add_listing_post.php:604
+msgid "Video URL"
+msgstr "Ajouter nouveau statut"
+
+#: add_listing_post.php:607
+msgid "Enter youtube embed iframe link"
+msgstr ""
+
+#: add_listing_post.php:614
+msgid "Add video feature is not available in subscribed plan."
+msgstr ""
+
+#: add_listing_post.php:621 template/single-property.php:395
+msgid "Floor Plan"
+msgstr ""
+
+#: add_listing_post.php:624
+msgid "Floor Plan Images"
+msgstr ""
+
+#: admin/active_plugin.php:328 admin/settings/settings.php:168
+msgid "Property List Page"
+msgstr "Dom"
+
+#: admin/active_plugin.php:343 admin/active_plugin.php:358
+#: template/registration_page.php:129
+msgid "Register Page"
+msgstr ""
+
+#: admin/admin.php:7 admin/admin.php:21 admin/admin.php:30
+msgid "Real Estate Management"
+msgstr "Dom"
+
+#: admin/admin.php:8 admin/admin.php:22 admin/admin.php:31
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: admin/admin.php:9
+msgid "Fields Management"
+msgstr "LA GESTION SCOLAIRE"
+
+#: admin/admin.php:10
+msgid "User Management"
+msgstr "LA GESTION SCOLAIRE"
+
+#: admin/admin.php:11 admin/admin.php:23 admin/admin.php:32
+msgid "Inquiries"
+msgstr ""
+
+#: admin/admin.php:12 admin/admin.php:24 admin/admin.php:33
+msgid "Payment"
+msgstr "Paiement"
+
+#: admin/admin.php:13
+msgid "Reports"
+msgstr ""
+
+#: admin/admin.php:14
+msgid "Plan Creator"
+msgstr ""
+
+#: admin/admin.php:15 admin/admin.php:25 admin/admin.php:34
+msgid "Case Management"
+msgstr "LA GESTION SCOLAIRE"
+
+#: admin/admin.php:16 admin/admin.php:26 admin/admin.php:35
+msgid "Task Management"
+msgstr "LA GESTION SCOLAIRE"
+
+#: admin/admin.php:17
+msgid "Settings"
+msgstr ""
+
+#: admin/case_manage/add_case.php:17
+msgid "Case Details"
+msgstr ""
+
+#: admin/case_manage/add_case.php:19 admin/case_manage/add_contract.php:18
+msgid "Contractor Name"
+msgstr "Nouveau nom de salles de bains"
+
+#: admin/case_manage/add_case.php:25
+msgid "Select Contractor"
+msgstr ""
+
+#: admin/case_manage/add_case.php:36 admin/inquiry/add_inquiry.php:56
+#: admin/inquiry/index.php:209 admin/inquiry/index.php:220
+#: admin/task_manage/index.php:218 admin/task_manage/index.php:226
+msgid "Property ID"
+msgstr "Nouveau bien"
+
+#: admin/case_manage/add_case.php:42 admin/inquiry/add_inquiry.php:62
+#: admin/inquiry/index.php:210 admin/inquiry/index.php:221
+#: admin/task_manage/index.php:219 admin/task_manage/index.php:227
+msgid "Estate"
+msgstr ""
+
+#: admin/case_manage/add_case.php:51
+msgid "Complain Detail"
+msgstr ""
+
+#: admin/case_manage/add_case.php:57 admin/case_manage/case_manage.php:29
+#: admin/case_manage/case_manage.php:40
+msgid "Complain By"
+msgstr ""
+
+#: admin/case_manage/add_case.php:66 admin/task_manage/task.php:102
+msgid "Change Status"
+msgstr "Ajouter nouveau statut"
+
+#: admin/case_manage/add_case.php:69
+msgid "Pending"
+msgstr ""
+
+#: admin/case_manage/add_case.php:70 admin/task_manage/task.php:106
+msgid "Completed"
+msgstr ""
+
+#: admin/case_manage/add_case.php:76 admin/case_manage/add_contract.php:36
+#: admin/inquiry/add_inquiry.php:44 admin/inquiry/index.php:206
+#: admin/inquiry/index.php:217 admin/payment/assignt_plan.php:76
+#: admin/settings/settings.php:55 admin/user_manage/index.php:159
+#: admin/user_manage/index.php:167 template/single-property.php:514
+msgid "Phone"
+msgstr ""
+
+#: admin/case_manage/add_case.php:87
+msgid "Update Case"
+msgstr "Mise à jour de salles de bains"
+
+#: admin/case_manage/add_case.php:87
+msgid "Add Case"
+msgstr "Ajouter nouveau statut"
+
+#: admin/case_manage/add_contract.php:16
+msgid "Contract Details"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:30 admin/inquiry/add_inquiry.php:38
+#: admin/inquiry/index.php:207 admin/inquiry/index.php:218
+#: admin/payment/assignt_plan.php:67 admin/user_manage/add_user.php:41
+#: admin/user_manage/index.php:161 admin/user_manage/index.php:169
+#: template/registration_page.php:221 template/registration_page.php:289
+#: template/single-property.php:510
+msgid "Email"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:45 admin/case_manage/index.php:186
+#: admin/case_manage/index.php:197 admin/dashboard/user_dashboard.php:57
+#: admin/fields/field_list.php:19 admin/user_manage/index.php:160
+#: admin/user_manage/index.php:168 template/emgt_property_list.php:85
+#: template/emgt_property_list.php:211 template/emgt_property_list.php:322
+#: template/searched_properties.php:92 template/searched_properties.php:219
+msgid "Type"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:48
+msgid "Agency"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:49
+msgid "Individual"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:54
+msgid "Services"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:60
+msgid "Contract Duration"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:74
+msgid "Contract Price"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:96 admin/case_manage/index.php:184
+#: admin/case_manage/index.php:195 admin/payment/index.php:228
+#: admin/payment/index.php:240 admin/reports/payment_report.php:56
+#: admin/user_manage/add_user.php:87 admin/user_manage/index.php:157
+#: admin/user_manage/index.php:165 template/registration_page.php:325
+msgid "Photo"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:99 admin/settings/settings.php:151
+#: admin/user_manage/add_user.php:90
+msgid "Upload image"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:100 admin/settings/settings.php:152
+#: admin/user_manage/add_user.php:91
+msgid "Upload image."
+msgstr ""
+
+#: admin/case_manage/add_contract.php:109
+msgid "Update Contract"
+msgstr ""
+
+#: admin/case_manage/add_contract.php:109 admin/case_manage/index.php:165
+msgid "Add Contract"
+msgstr ""
+
+#: admin/case_manage/case_manage.php:25 admin/case_manage/case_manage.php:36
+msgid "Property"
+msgstr ""
+
+#: admin/case_manage/case_manage.php:26 admin/case_manage/case_manage.php:37
+#: admin/inquiry/add_task.php:116 admin/inquiry/add_task.php:123
+#: admin/task_manage/index.php:216 admin/task_manage/index.php:224
+msgid "Assigned To"
+msgstr ""
+
+#: admin/case_manage/case_manage.php:27 admin/case_manage/case_manage.php:38
+msgid "Assigned Date"
+msgstr ""
+
+#: admin/case_manage/case_manage.php:28 admin/case_manage/case_manage.php:39
+msgid "Complain"
+msgstr ""
+
+#: admin/case_manage/case_manage.php:31 admin/case_manage/case_manage.php:42
+#: admin/case_manage/index.php:190 admin/case_manage/index.php:201
+#: admin/fields/field_forms/newsection.php:38 admin/fields/field_list.php:20
+#: admin/fields/media.php:14 admin/inquiry/add_note.php:72
+#: admin/inquiry/add_note.php:78 admin/inquiry/add_task.php:119
+#: admin/inquiry/add_task.php:126 admin/inquiry/index.php:211
+#: admin/inquiry/index.php:222 admin/payment/index.php:237
+#: admin/payment/index.php:249 admin/plan_creator/index.php:127
+#: admin/plan_creator/index.php:133 admin/task_manage/index.php:220
+#: admin/task_manage/index.php:228 admin/task_manage/note.php:65
+#: admin/task_manage/note.php:71
+msgid "Action"
+msgstr ""
+
+#: admin/case_manage/case_manage.php:79
+msgid "Are you sure you want to delete this record?"
+msgstr ""
+
+#: admin/case_manage/index.php:138 admin/fields/index.php:136
+#: admin/fields/index.php:154 admin/inquiry/index.php:150
+#: admin/payment/index.php:174 admin/payment/index.php:193
+#: admin/plan_creator/index.php:87 admin/task_manage/index.php:101
+#: admin/user_manage/index.php:99 admin/user_manage/index.php:118
+msgid "Success !"
+msgstr ""
+
+#: admin/case_manage/index.php:138 admin/inquiry/index.php:150
+#: admin/payment/index.php:174 admin/plan_creator/index.php:87
+#: admin/task_manage/index.php:101 admin/user_manage/index.php:99
+msgid "Operation completed successfully!"
+msgstr ""
+
+#: admin/case_manage/index.php:147 admin/fields/index.php:127
+#: admin/fields/index.php:145 admin/inquiry/index.php:159
+#: admin/payment/index.php:183 admin/plan_creator/index.php:96
+#: admin/task_manage/index.php:110 admin/user_manage/index.php:108
+msgid "Error !"
+msgstr ""
+
+#: admin/case_manage/index.php:147 admin/inquiry/index.php:159
+#: admin/payment/index.php:183 admin/plan_creator/index.php:96
+#: admin/task_manage/index.php:110 admin/user_manage/index.php:108
+msgid "Operation failed. Pleas try again later!"
+msgstr ""
+
+#: admin/case_manage/index.php:162
+msgid "Contracts"
+msgstr ""
+
+#: admin/case_manage/index.php:165
+msgid "Edit Contract"
+msgstr ""
+
+#: admin/case_manage/index.php:169
+msgid "Cases"
+msgstr ""
+
+#: admin/case_manage/index.php:172
+msgid "Edit Case"
+msgstr ""
+
+#: admin/case_manage/index.php:172
+msgid "Create Case"
+msgstr ""
+
+#: admin/case_manage/index.php:185 admin/case_manage/index.php:196
+msgid "Contractor"
+msgstr ""
+
+#: admin/case_manage/index.php:187 admin/case_manage/index.php:198
+msgid "Service"
+msgstr ""
+
+#: admin/case_manage/index.php:188 admin/case_manage/index.php:199
+msgid "Contact No."
+msgstr ""
+
+#: admin/dashboard/dashboard.php:53 admin/dashboard/dashboard.php:79
+#: admin/reports/property_report.php:37
+#: admin/reports/yearly_payment_report.php:55
+msgid "Months"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:53
+msgid "Total Payments"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:75
+msgid "Current Year Payments"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:82 admin/reports/yearly_payment_report.php:85
+msgid "Amount Paid in"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:112 admin/dashboard/user_dashboard.php:103
+msgid "Total Properties"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:119
+msgid "Total Owners"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:126
+msgid "Total Agents"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:133 admin/dashboard/user_dashboard.php:110
+msgid "Total Inquiries"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:140 admin/dashboard/user_dashboard.php:117
+msgid "Total Tasks"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:154 admin/dashboard/user_dashboard.php:145
+msgid "Recently Added Properties"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:169 admin/dashboard/user_dashboard.php:161
+msgid "Property Name"
+msgstr ""
+
+#: admin/dashboard/dashboard.php:169 admin/dashboard/user_dashboard.php:161
+msgid "Posted By"
+msgstr ""
+
+#: admin/dashboard/user_dashboard.php:57
+msgid "Total Property"
+msgstr ""
+
+#: admin/dashboard/user_dashboard.php:124
+msgid "Plan Details"
+msgstr ""
+
+#: admin/dashboard/user_dashboard.php:127
+msgid "Plan Activation Date"
+msgstr ""
+
+#: admin/dashboard/user_dashboard.php:128
+msgid "Plan Expire Date"
+msgstr ""
+
+#: admin/dashboard/user_dashboard.php:129
+msgid "Total Ads Used"
+msgstr ""
+
+#: admin/dashboard/user_dashboard.php:130
+msgid "Total Ads Remaining"
+msgstr ""
+
+#: admin/fields/add_field.php:5
+msgid "Add New Field"
+msgstr ""
+
+#: admin/fields/add_field.php:10 admin/fields/field_forms/checkbox.php:24
+#: admin/fields/field_forms/dropdown.php:25
+#: admin/fields/field_forms/radio.php:27
+#: admin/fields/field_forms/textarea.php:25
+#: admin/fields/field_forms/textbox.php:26
+msgid "Field Type"
+msgstr ""
+
+#: admin/fields/add_field.php:12
+msgid "Textbox"
+msgstr ""
+
+#: admin/fields/add_field.php:13
+msgid "Radio-Buttons"
+msgstr ""
+
+#: admin/fields/add_field.php:14
+msgid "Checkbox"
+msgstr ""
+
+#: admin/fields/add_field.php:15
+msgid "Textarea"
+msgstr ""
+
+#: admin/fields/add_field.php:16
+msgid "Dropdown"
+msgstr ""
+
+#: admin/fields/add_field.php:17
+msgid "Add new Section"
+msgstr ""
+
+#: admin/fields/add_field.php:24
+msgid "Add"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:17
+#: admin/fields/field_forms/dropdown.php:18
+#: admin/fields/field_forms/newsection.php:5
+#: admin/fields/field_forms/radio.php:19
+#: admin/fields/field_forms/textarea.php:18
+#: admin/fields/field_forms/textbox.php:19 emgt_ajax_functions.php:391
+#: emgt_ajax_functions.php:433
+msgid "Field Configuration"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:28
+#: admin/fields/field_forms/dropdown.php:29
+#: admin/fields/field_forms/radio.php:31
+#: admin/fields/field_forms/textarea.php:29
+#: admin/fields/field_forms/textbox.php:31
+msgid "Field Name"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:29
+#: admin/fields/field_forms/dropdown.php:30
+#: admin/fields/field_forms/radio.php:32
+#: admin/fields/field_forms/textarea.php:30
+#: admin/fields/field_forms/textbox.php:32
+msgid "Enter Unique Name"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:36
+#: admin/fields/field_forms/dropdown.php:37
+#: admin/fields/field_forms/radio.php:39
+#: admin/fields/field_forms/textarea.php:37
+#: admin/fields/field_forms/textbox.php:40
+msgid "Section"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:38
+#: admin/fields/field_forms/dropdown.php:39
+#: admin/fields/field_forms/radio.php:41
+#: admin/fields/field_forms/textarea.php:39
+#: admin/fields/field_forms/textbox.php:42
+msgid "Choose Section"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:60
+#: admin/fields/field_forms/dropdown.php:61
+#: admin/fields/field_forms/radio.php:63
+#: admin/fields/field_forms/textarea.php:61
+#: admin/fields/field_forms/textbox.php:67
+msgid "Require"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:61
+#: admin/fields/field_forms/dropdown.php:62
+#: admin/fields/field_forms/radio.php:64
+#: admin/fields/field_forms/textarea.php:62
+#: admin/fields/field_forms/textbox.php:68
+msgid "(Will make field required)"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:64
+#: admin/fields/field_forms/dropdown.php:65
+#: admin/fields/field_forms/radio.php:67
+#: admin/fields/field_forms/textarea.php:65
+#: admin/fields/field_forms/textbox.php:71
+msgid "Disable"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:65
+#: admin/fields/field_forms/dropdown.php:66
+#: admin/fields/field_forms/radio.php:68
+#: admin/fields/field_forms/textarea.php:66
+#: admin/fields/field_forms/textbox.php:72
+msgid "(Hide field)"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:68
+#: admin/fields/field_forms/dropdown.php:69
+#: admin/fields/field_forms/radio.php:71
+#: admin/fields/field_forms/textarea.php:69
+#: admin/fields/field_forms/textbox.php:75
+msgid "Label"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:69
+#: admin/fields/field_forms/dropdown.php:70
+#: admin/fields/field_forms/radio.php:72
+#: admin/fields/field_forms/textarea.php:70
+#: admin/fields/field_forms/textbox.php:76
+msgid "Enter Label"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:72
+#: admin/fields/field_forms/radio.php:75
+msgid "Buttons"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:73
+#: admin/fields/field_forms/radio.php:76
+msgid "Add buttons"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:74
+#: admin/fields/field_forms/radio.php:77
+msgid "separate each button by"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:74
+#: admin/fields/field_forms/radio.php:77
+msgid "example: 'button 1 | button 2'"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:77
+#: admin/fields/field_forms/dropdown.php:78
+#: admin/fields/field_forms/radio.php:80
+#: admin/fields/field_forms/textarea.php:78
+#: admin/fields/field_forms/textbox.php:84
+msgid "ID Attribute"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:78
+#: admin/fields/field_forms/dropdown.php:79
+#: admin/fields/field_forms/radio.php:81
+#: admin/fields/field_forms/textarea.php:79
+#: admin/fields/field_forms/textbox.php:85
+msgid "Tag ID"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:81
+#: admin/fields/field_forms/dropdown.php:82
+#: admin/fields/field_forms/radio.php:84
+#: admin/fields/field_forms/textarea.php:82
+#: admin/fields/field_forms/textbox.php:88
+msgid "Class Attribute"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:82
+#: admin/fields/field_forms/dropdown.php:83
+#: admin/fields/field_forms/radio.php:85
+#: admin/fields/field_forms/textarea.php:83
+#: admin/fields/field_forms/textbox.php:89
+msgid "Tag Class"
+msgstr ""
+
+#: admin/fields/field_forms/checkbox.php:86
+#: admin/fields/field_forms/dropdown.php:87
+#: admin/fields/field_forms/radio.php:89
+#: admin/fields/field_forms/textarea.php:86
+#: admin/fields/field_forms/textbox.php:92 admin/fields/media.php:26
+#: admin/fields/media.php:39 admin/fields/media.php:44
+#: admin/settings/settings.php:202
+msgid "Save"
+msgstr ""
+
+#: admin/fields/field_forms/dropdown.php:73
+msgid "Options"
+msgstr ""
+
+#: admin/fields/field_forms/dropdown.php:74
+msgid "insert options"
+msgstr ""
+
+#: admin/fields/field_forms/dropdown.php:75
+msgid "separate each option by"
+msgstr ""
+
+#: admin/fields/field_forms/dropdown.php:75
+msgid "example: 'option 1 | option 2'"
+msgstr ""
+
+#: admin/fields/field_forms/newsection.php:11 admin/fields/field_list.php:18
+#: admin/inquiry/add_inquiry.php:32 admin/payment/index.php:229
+#: admin/payment/index.php:241 admin/user_manage/index.php:158
+#: admin/user_manage/index.php:166 template/single-property.php:506
+msgid "Name"
+msgstr ""
+
+#: admin/fields/field_forms/newsection.php:12
+#: admin/fields/field_forms/newsection.php:37
+msgid "Section Name"
+msgstr ""
+
+#: admin/fields/field_forms/newsection.php:16
+msgid "Group with"
+msgstr ""
+
+#: admin/fields/field_forms/newsection.php:30
+msgid "Add Section"
+msgstr ""
+
+#: admin/fields/field_forms/textarea.php:73
+#: admin/fields/field_forms/textarea.php:74
+#: admin/fields/field_forms/textbox.php:79
+#: admin/fields/field_forms/textbox.php:80
+msgid "Default Value"
+msgstr ""
+
+#: admin/fields/field_forms/textarea.php:75
+#: admin/fields/field_forms/textbox.php:81
+msgid "Use as placeholder"
+msgstr ""
+
+#: admin/fields/index.php:127
+msgid "Field Name already exists.Please Choose different field name."
+msgstr ""
+
+#: admin/fields/index.php:136
+msgid "Field Saved Successfully."
+msgstr ""
+
+#: admin/fields/index.php:145
+msgid "Field cannot be Saved, Please try again later"
+msgstr ""
+
+#: admin/fields/index.php:154
+msgid "Field Deleted Successfully."
+msgstr ""
+
+#: admin/fields/index.php:169
+msgid "Manage Fields"
+msgstr ""
+
+#: admin/fields/index.php:193
+msgid "Basic Details"
+msgstr ""
+
+#: admin/fields/index.php:196
+msgid "Advance"
+msgstr ""
+
+#: admin/fields/index.php:199
+msgid "Optional"
+msgstr ""
+
+#: admin/fields/index.php:202
+msgid "Media"
+msgstr ""
+
+#: admin/fields/index.php:205
+msgid "Compliance"
+msgstr ""
+
+#: admin/fields/media.php:12
+msgid "Field"
+msgstr ""
+
+#: admin/fields/media.php:24
+msgid "Display Gallery field to add new listing page ?"
+msgstr ""
+
+#: admin/fields/media.php:25 admin/fields/media.php:38
+#: admin/fields/media.php:43 admin/reports/payment_report.php:39
+#: admin/reports/yearly_payment_report.php:44 admin/task_manage/index.php:178
+msgid "Show"
+msgstr ""
+
+#: admin/fields/media.php:37
+msgid "Display Video Attach URL field to add new listing page ?"
+msgstr ""
+
+#: admin/fields/media.php:42
+msgid "Display Floor plan attach field to add new listing page ?"
+msgstr ""
+
+#: admin/fields/section/advance.php:8 admin/fields/section/appliances.php:8
+#: admin/fields/section/basic_detail.php:8 admin/fields/section/media.php:8
+#: admin/fields/section/optional.php:8 admin/fields/section_page.php:15
+msgid "Section List"
+msgstr ""
+
+#: admin/inquiry/add_inquiry.php:24
+msgid "Inquiry Information"
+msgstr ""
+
+#: admin/inquiry/add_inquiry.php:26
+msgid "Title"
+msgstr ""
+
+#: admin/inquiry/add_inquiry.php:50 admin/inquiry/index.php:208
+#: admin/inquiry/index.php:219 template/single-property.php:522
+msgid "Message"
+msgstr ""
+
+#: admin/inquiry/add_inquiry.php:73
+msgid "Update Inquiry"
+msgstr ""
+
+#: admin/inquiry/add_inquiry.php:73
+msgid "Save Inquiry"
+msgstr ""
+
+#: admin/inquiry/add_note.php:36 admin/task_manage/note.php:27
+#: emgt_ajax_functions.php:222
+msgid "Note Details"
+msgstr ""
+
+#: admin/inquiry/add_note.php:38 admin/inquiry/add_note.php:70
+#: admin/inquiry/add_note.php:76 admin/task_manage/note.php:29
+#: admin/task_manage/note.php:63 admin/task_manage/note.php:69
+msgid "Note Title"
+msgstr ""
+
+#: admin/inquiry/add_note.php:44 admin/inquiry/add_note.php:71
+#: admin/inquiry/add_note.php:77 admin/task_manage/note.php:35
+#: admin/task_manage/note.php:64 admin/task_manage/note.php:70
+#: emgt_ajax_functions.php:234
+msgid "Note Description"
+msgstr ""
+
+#: admin/inquiry/add_note.php:52 admin/task_manage/note.php:43
+msgid "Save Note"
+msgstr ""
+
+#: admin/inquiry/add_note.php:56 admin/inquiry/add_task.php:101
+msgid "Assigned Tasks"
+msgstr ""
+
+#: admin/inquiry/add_note.php:69 admin/inquiry/add_note.php:75
+#: admin/inquiry/add_task.php:115 admin/inquiry/add_task.php:122
+#: admin/plan_creator/index.php:126 admin/plan_creator/index.php:132
+#: admin/task_manage/note.php:62 admin/task_manage/note.php:68
+msgid "Created Date"
+msgstr ""
+
+#: admin/inquiry/add_task.php:25 admin/task_manage/task.php:18
+msgid "Task Information"
+msgstr ""
+
+#: admin/inquiry/add_task.php:27 admin/task_manage/task.php:50
+msgid "Assign Task To"
+msgstr ""
+
+#: admin/inquiry/add_task.php:44 admin/payment/assignt_plan.php:36
+#: admin/payment/assignt_plan.php:39 admin/task_manage/task.php:70
+#: emgt_ajax_functions.php:206 emgt_ajax_functions.php:303
+msgid "Select User"
+msgstr ""
+
+#: admin/inquiry/add_task.php:66 admin/task_manage/task.php:81
+#: emgt_ajax_functions.php:252
+msgid "Task Details"
+msgstr ""
+
+#: admin/inquiry/add_task.php:72 admin/task_manage/task.php:87
+msgid "Task Schedule Date"
+msgstr ""
+
+#: admin/inquiry/add_task.php:84 admin/task_manage/task.php:113
+msgid "Sent Notification Email"
+msgstr ""
+
+#: admin/inquiry/add_task.php:87 admin/task_manage/task.php:116
+msgid "Yes"
+msgstr ""
+
+#: admin/inquiry/add_task.php:90 admin/task_manage/task.php:119
+msgid "No"
+msgstr ""
+
+#: admin/inquiry/add_task.php:97 admin/task_manage/task.php:126
+msgid "Save Task"
+msgstr ""
+
+#: admin/inquiry/add_task.php:117 admin/inquiry/add_task.php:124
+#: emgt_ajax_functions.php:260
+msgid "Task Description"
+msgstr ""
+
+#: admin/inquiry/index.php:173
+msgid "Inquiry List"
+msgstr ""
+
+#: admin/inquiry/index.php:176
+msgid "Edit Inquiry"
+msgstr ""
+
+#: admin/inquiry/index.php:176
+msgid "Add Inquiry"
+msgstr ""
+
+#: admin/inquiry/index.php:187 admin/task_manage/index.php:127
+msgid "Add Task"
+msgstr ""
+
+#: admin/inquiry/index.php:190 admin/task_manage/index.php:138
+msgid "Add Note"
+msgstr ""
+
+#: admin/inquiry/index.php:203 admin/inquiry/index.php:214
+msgid "Inquiry Date"
+msgstr ""
+
+#: admin/inquiry/index.php:204 admin/inquiry/index.php:215
+msgid "Inquiry Title"
+msgstr ""
+
+#: admin/inquiry/index.php:205 admin/inquiry/index.php:216
+msgid "Sender Name"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:26 admin/payment/assignt_plan.php:29
+#: template/emgt_property_list.php:88 template/searched_properties.php:95
+msgid "Select Type"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:30 admin/user_manage/add_user.php:81
+#: template/registration_page.php:259 template/single-property.php:477
+msgid "Agent"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:31 admin/user_manage/add_user.php:82
+msgid "Property Owner"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:50 admin/user_manage/add_user.php:34
+#: template/registration_page.php:282
+msgid "Gender"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:53 admin/user_manage/add_user.php:36
+#: template/registration_page.php:284
+msgid "Male"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:56 admin/user_manage/add_user.php:37
+#: template/registration_page.php:285
+msgid "Female"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:86 admin/payment/assignt_plan.php:89
+msgid "Select Plan"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:104 admin/payment/index.php:230
+#: admin/payment/index.php:242 admin/payment/view_payment.php:62
+#: admin/reports/payment_report.php:58
+msgid "Plan"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:111 admin/payment/view_payment.php:63
+#: admin/plan_creator/add_plan.php:25 emgt_ajax_functions.php:91
+msgid "Plan Price"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:124
+msgid "Activation date"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:135
+msgid "Expire date"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:152 admin/plan_creator/add_plan.php:99
+msgid "Update Plan"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:152 admin/payment/index.php:209
+msgid "Assign Plan"
+msgstr ""
+
+#: admin/payment/assignt_plan.php:156
+msgid "Go Back"
+msgstr ""
+
+#: admin/payment/index.php:193
+msgid "Payment successfully added!"
+msgstr ""
+
+#: admin/payment/index.php:204
+msgid "Payment List"
+msgstr ""
+
+#: admin/payment/index.php:209
+msgid "Edit"
+msgstr ""
+
+#: admin/payment/index.php:215
+msgid "View Details"
+msgstr ""
+
+#: admin/payment/index.php:231 admin/payment/index.php:243
+#: admin/plan_creator/index.php:125 admin/plan_creator/index.php:131
+#: template/emgt_property_list.php:209 template/emgt_property_list.php:320
+#: template/searched_properties.php:217
+msgid "Price"
+msgstr ""
+
+#: admin/payment/index.php:232 admin/payment/index.php:244
+#: admin/reports/property_report.php:41
+msgid "Amount Paid"
+msgstr ""
+
+#: admin/payment/index.php:233 admin/payment/index.php:245
+msgid "Amount Due"
+msgstr ""
+
+#: admin/payment/index.php:234 admin/payment/index.php:246
+msgid "Plan Status"
+msgstr ""
+
+#: admin/payment/index.php:235 admin/payment/index.php:247
+msgid "Plan Created Date"
+msgstr ""
+
+#: admin/payment/index.php:236 admin/payment/index.php:248
+msgid "Plan Activated Date date"
+msgstr ""
+
+#: admin/payment/index.php:271 admin/payment/index.php:272
+msgid "Not Activated"
+msgstr ""
+
+#: admin/payment/index.php:275 admin/user_manage/index.php:203
+msgid "Activated"
+msgstr ""
+
+#: admin/payment/index.php:278
+msgid "Expired"
+msgstr ""
+
+#: admin/payment/view_payment.php:14
+msgid "View as Bill"
+msgstr ""
+
+#: admin/payment/view_payment.php:23 admin/user_manage/add_user.php:14
+msgid "User Details"
+msgstr ""
+
+#: admin/payment/view_payment.php:32 admin/user_manage/add_user.php:65
+#: template/registration_page.php:313
+msgid "Username"
+msgstr ""
+
+#: admin/payment/view_payment.php:33
+msgid "Plan Subscribed"
+msgstr ""
+
+#: admin/payment/view_payment.php:34
+msgid "Plan Activated Date"
+msgstr ""
+
+#: admin/payment/view_payment.php:35
+msgid "Plan Expiry Date"
+msgstr ""
+
+#: admin/payment/view_payment.php:54
+msgid "Subscribed Plan Details"
+msgstr ""
+
+#: admin/payment/view_payment.php:64
+msgid "Plan Validity"
+msgstr ""
+
+#: admin/payment/view_payment.php:65 admin/plan_creator/add_plan.php:34
+msgid "Ads Quantity"
+msgstr ""
+
+#: admin/payment/view_payment.php:66 admin/reports/payment_report.php:59
+#: emgt_ajax_functions.php:171
+msgid "Paid Amount"
+msgstr ""
+
+#: admin/payment/view_payment.php:67 emgt_ajax_functions.php:112
+msgid "Due Amount"
+msgstr ""
+
+#: admin/payment/view_payment.php:89
+msgid "Plan Usage Details"
+msgstr ""
+
+#: admin/payment/view_payment.php:98
+msgid "Available Ads Quantity"
+msgstr ""
+
+#: admin/payment/view_payment.php:99
+msgid "Used Ads"
+msgstr ""
+
+#: admin/payment/view_payment.php:100
+msgid "Remaining Ads"
+msgstr ""
+
+#: admin/payment/view_payment.php:101
+msgid "Single Ad Validity Period"
+msgstr ""
+
+#: admin/payment/view_payment.php:121
+msgid "Payment Details"
+msgstr ""
+
+#: admin/payment/view_payment.php:130 admin/reports/payment_report.php:61
+msgid "Payment Date"
+msgstr ""
+
+#: admin/payment/view_payment.php:131
+msgid "Paid Amount "
+msgstr ""
+
+#: admin/payment/view_payment.php:132
+msgid "Payment Method "
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:19 admin/plan_creator/index.php:124
+#: admin/plan_creator/index.php:130 emgt_ajax_functions.php:90
+msgid "Plan Name"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:40
+msgid "Set Features"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:44
+msgid "Can Add Video"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:49
+msgid "Preferred Visibility"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:54 template/single-property.php:285
+msgid "Map Location"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:61
+msgid "Plan Validity Period"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:67 admin/plan_creator/add_plan.php:83
+msgid "Month"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:68 admin/plan_creator/add_plan.php:84
+msgid "Year"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:69 admin/plan_creator/add_plan.php:85
+msgid "Day"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:70 admin/plan_creator/add_plan.php:86
+msgid "Week"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:75
+msgid "Single Ad Listing Period"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:92
+msgid "Period will be same as plan period !"
+msgstr ""
+
+#: admin/plan_creator/add_plan.php:99 admin/plan_creator/index.php:112
+msgid "Add Plan"
+msgstr ""
+
+#: admin/plan_creator/index.php:109
+msgid "Plans"
+msgstr ""
+
+#: admin/plan_creator/index.php:112
+msgid "Edit Plan"
+msgstr ""
+
+#: admin/reports/index.php:23
+msgid "Payment Report"
+msgstr ""
+
+#: admin/reports/index.php:26
+msgid "Yearly Payment Report"
+msgstr ""
+
+#: admin/reports/index.php:29
+msgid "Plan Report"
+msgstr ""
+
+#: admin/reports/index.php:32
+msgid "Property Report"
+msgstr ""
+
+#: admin/reports/payment_report.php:20
+msgid "From Date"
+msgstr ""
+
+#: admin/reports/payment_report.php:29
+msgid "To Date"
+msgstr ""
+
+#: admin/reports/payment_report.php:57
+msgid "User"
+msgstr ""
+
+#: admin/reports/payment_report.php:60 emgt_ajax_functions.php:177
+msgid "Paid Via"
+msgstr ""
+
+#: admin/reports/property_report.php:34
+msgid "Property By Type"
+msgstr ""
+
+#: admin/reports/yearly_payment_report.php:29
+#: admin/reports/yearly_payment_report.php:31
+msgid "Select Year"
+msgstr ""
+
+#: admin/reports/yearly_payment_report.php:55
+msgid "Total Payments in"
+msgstr ""
+
+#: admin/reports/yearly_payment_report.php:77
+msgid "Monthly Payments"
+msgstr ""
+
+#: admin/settings/settings.php:41
+msgid "General Settings"
+msgstr ""
+
+#: admin/settings/settings.php:43
+msgid "System Name"
+msgstr ""
+
+#: admin/settings/settings.php:61 template/registration_page.php:229
+msgid "Country"
+msgstr ""
+
+#: admin/settings/settings.php:74
+msgid "Select Country"
+msgstr ""
+
+#: admin/settings/settings.php:85 admin/settings/settings.php:89
+msgid "Select Currency"
+msgstr ""
+
+#: admin/settings/settings.php:91
+msgid "Australian Dollar"
+msgstr ""
+
+#: admin/settings/settings.php:93
+msgid "Brazilian Real"
+msgstr ""
+
+#: admin/settings/settings.php:95
+msgid "Canadian Dollar"
+msgstr ""
+
+#: admin/settings/settings.php:97
+msgid "Czech Koruna"
+msgstr ""
+
+#: admin/settings/settings.php:99
+msgid "Danish Krone"
+msgstr ""
+
+#: admin/settings/settings.php:101
+msgid "Euro"
+msgstr ""
+
+#: admin/settings/settings.php:103
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: admin/settings/settings.php:105
+msgid "Hungarian Forint"
+msgstr ""
+
+#: admin/settings/settings.php:107
+msgid "Israeli New Sheqel"
+msgstr ""
+
+#: admin/settings/settings.php:109
+msgid "Japanese Yen"
+msgstr ""
+
+#: admin/settings/settings.php:111
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: admin/settings/settings.php:113
+msgid "Mexican Peso"
+msgstr ""
+
+#: admin/settings/settings.php:115
+msgid "Norwegian Krone"
+msgstr ""
+
+#: admin/settings/settings.php:117
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: admin/settings/settings.php:119
+msgid "Philippine Peso"
+msgstr ""
+
+#: admin/settings/settings.php:121
+msgid "Polish Zloty"
+msgstr ""
+
+#: admin/settings/settings.php:123
+msgid "Pound Sterling"
+msgstr ""
+
+#: admin/settings/settings.php:125
+msgid "Singapore Dollar"
+msgstr ""
+
+#: admin/settings/settings.php:127
+msgid "Swedish Krona"
+msgstr ""
+
+#: admin/settings/settings.php:129
+msgid "Swiss Franc"
+msgstr ""
+
+#: admin/settings/settings.php:131
+msgid "Taiwan New Dollar"
+msgstr ""
+
+#: admin/settings/settings.php:133
+msgid "Thai Baht"
+msgstr ""
+
+#: admin/settings/settings.php:135
+msgid "Turkish Lira"
+msgstr ""
+
+#: admin/settings/settings.php:137
+msgid "U.S. Dollar"
+msgstr ""
+
+#: admin/settings/settings.php:142
+msgid "Email Id"
+msgstr ""
+
+#: admin/settings/settings.php:148
+msgid "System Logo"
+msgstr ""
+
+#: admin/settings/settings.php:160
+msgid "System Settings"
+msgstr ""
+
+#: admin/settings/settings.php:162
+msgid "Property Approval System"
+msgstr ""
+
+#: admin/settings/settings.php:190
+msgid "Select Page"
+msgstr ""
+
+#: admin/settings/settings.php:191
+msgid "None"
+msgstr ""
+
+#: admin/task_manage/index.php:124
+msgid "Task List"
+msgstr ""
+
+#: admin/task_manage/index.php:127
+msgid "Edit Task"
+msgstr ""
+
+#: admin/task_manage/index.php:150 admin/task_manage/task.php:20
+#: admin/task_manage/task.php:39
+msgid "Select Inquiry"
+msgstr ""
+
+#: admin/task_manage/index.php:169
+msgid "All"
+msgstr ""
+
+#: admin/task_manage/index.php:215 admin/task_manage/index.php:223
+#: emgt_ajax_functions.php:264
+msgid "Schedule Date"
+msgstr ""
+
+#: admin/task_manage/note.php:47
+msgid "Notes"
+msgstr ""
+
+#: admin/task_manage/task.php:105
+msgid "In Progress"
+msgstr ""
+
+#: admin/task_manage/task.php:126
+msgid "Update Task"
+msgstr ""
+
+#: admin/user_manage/add_user.php:16 template/registration_page.php:264
+msgid "First Name"
+msgstr "Prénom"
+
+#: admin/user_manage/add_user.php:22 template/registration_page.php:270
+msgid "Middle Name"
+msgstr ""
+
+#: admin/user_manage/add_user.php:28 template/registration_page.php:276
+msgid "Last Name"
+msgstr ""
+
+#: admin/user_manage/add_user.php:56 template/registration_page.php:304
+msgid "Mobile Number"
+msgstr ""
+
+#: admin/user_manage/add_user.php:71 template/registration_page.php:319
+msgid "Password"
+msgstr ""
+
+#: admin/user_manage/add_user.php:77
+msgid "Role"
+msgstr ""
+
+#: admin/user_manage/add_user.php:80
+msgid "Select Role"
+msgstr ""
+
+#: admin/user_manage/add_user.php:99 admin/user_manage/index.php:133
+msgid "Update User"
+msgstr ""
+
+#: admin/user_manage/add_user.php:99 admin/user_manage/index.php:133
+msgid "Add User"
+msgstr ""
+
+#: admin/user_manage/index.php:118
+msgid "Member is activated successfully!"
+msgstr ""
+
+#: admin/user_manage/index.php:130
+msgid "Users List"
+msgstr ""
+
+#: admin/user_manage/index.php:162 admin/user_manage/index.php:170
+msgid "Action ID"
+msgstr ""
+
+#: admin/user_manage/index.php:200
+msgid "Activate Now"
+msgstr ""
+
+#: class/emgt_custom_fields.php:71
+msgid " -- Select Country -- "
+msgstr ""
+
+#: emgt_ajax_functions.php:46
+msgid "Issue Date"
+msgstr ""
+
+#: emgt_ajax_functions.php:70
+msgid "Payment To"
+msgstr ""
+
+#: emgt_ajax_functions.php:73
+msgid "Bill To"
+msgstr ""
+
+#: emgt_ajax_functions.php:104
+msgid "Sub Total"
+msgstr ""
+
+#: emgt_ajax_functions.php:108
+msgid "Payment Made"
+msgstr ""
+
+#: emgt_ajax_functions.php:123
+msgid "Date "
+msgstr ""
+
+#: emgt_ajax_functions.php:124
+msgid "Amount "
+msgstr ""
+
+#: emgt_ajax_functions.php:125
+msgid "Method "
+msgstr ""
+
+#: emgt_ajax_functions.php:144
+msgid "No Records found!!"
+msgstr ""
+
+#: emgt_ajax_functions.php:163
+msgid "Add Payment"
+msgstr ""
+
+#: emgt_ajax_functions.php:180
+msgid "Cash"
+msgstr ""
+
+#: emgt_ajax_functions.php:181
+msgid "Cheque"
+msgstr ""
+
+#: emgt_ajax_functions.php:182
+msgid "Bank"
+msgstr ""
+
+#: emgt_ajax_functions.php:230
+msgid "Note Title "
+msgstr ""
+
+#: emgt_ajax_functions.php:311
+msgid "No User Found"
+msgstr ""
+
+#: real_estate_functions.php:10
+msgid "Property List"
+msgstr ""
+
+#: real_estate_functions.php:25
+msgid "Register"
+msgstr ""
+
+#: real_estate_functions.php:40 real_estate_functions.php:373
+msgid "Login"
+msgstr ""
+
+#: real_estate_functions.php:363
+msgid "Remember Me "
+msgstr ""
+
+#: real_estate_functions.php:364
+msgid "Log In"
+msgstr ""
+
+#: settings.php:186
+msgid "<strong>ERROR</strong>:Your account not activated yet!"
+msgstr ""
+
+#: template/emgt_property_list.php:29 template/emgt_property_list.php:90
+#: template/registration_page.php:128 template/registration_page.php:136
+#: template/searched_properties.php:36 template/searched_properties.php:97
+#: template/single-property.php:30 template/single-property.php:565
+#: template/view_profile.php:11
+msgid "Home"
+msgstr ""
+
+#: template/emgt_property_list.php:47 template/searched_properties.php:54
+#: template/single-property.php:575
+msgid "Sale"
+msgstr ""
+
+#: template/emgt_property_list.php:48 template/searched_properties.php:55
+#: template/single-property.php:576
+msgid "Rent"
+msgstr ""
+
+#: template/emgt_property_list.php:49 template/searched_properties.php:56
+msgid "Vocational Rent"
+msgstr ""
+
+#: template/emgt_property_list.php:52 template/searched_properties.php:59
+msgid "Location"
+msgstr ""
+
+#: template/emgt_property_list.php:65 template/searched_properties.php:72
+msgid "Select Location"
+msgstr ""
+
+#: template/emgt_property_list.php:76 template/searched_properties.php:83
+#: template/single-property.php:584
+msgid "Price range"
+msgstr ""
+
+#: template/emgt_property_list.php:89 template/searched_properties.php:96
+#: template/single-property.php:564
+msgid "Building"
+msgstr ""
+
+#: template/emgt_property_list.php:91 template/searched_properties.php:98
+#: template/single-property.php:566
+msgid "House"
+msgstr ""
+
+#: template/emgt_property_list.php:92 template/searched_properties.php:99
+#: template/single-property.php:567
+msgid "office"
+msgstr ""
+
+#: template/emgt_property_list.php:93 template/searched_properties.php:100
+#: template/single-property.php:568
+msgid "Land"
+msgstr ""
+
+#: template/emgt_property_list.php:94 template/searched_properties.php:101
+#: template/single-property.php:569
+msgid "Apartment"
+msgstr ""
+
+#: template/emgt_property_list.php:95 template/searched_properties.php:102
+#: template/single-property.php:570
+msgid "Villa"
+msgstr ""
+
+#: template/emgt_property_list.php:96 template/searched_properties.php:103
+#: template/single-property.php:571
+msgid "Commercial Properties"
+msgstr ""
+
+#: template/emgt_property_list.php:105 template/searched_properties.php:112
+msgid "Select Bedrooms"
+msgstr ""
+
+#: template/emgt_property_list.php:122 template/searched_properties.php:129
+msgid "Search"
+msgstr ""
+
+#: template/emgt_property_list.php:210 template/emgt_property_list.php:321
+#: template/searched_properties.php:218
+msgid "For"
+msgstr ""
+
+#: template/emgt_property_list.php:212 template/emgt_property_list.php:323
+#: template/searched_properties.php:220
+msgid "View"
+msgstr ""
+
+#: template/emgt_property_list.php:339 template/searched_properties.php:236
+msgid "Agents"
+msgstr ""
+
+#: template/emgt_property_list.php:365 template/searched_properties.php:261
+msgid "<< Previous Page"
+msgstr ""
+
+#: template/emgt_property_list.php:366 template/searched_properties.php:262
+msgid "Next Page >>"
+msgstr ""
+
+#: template/registration_page.php:137 template/view_profile.php:12
+msgid "Profile View"
+msgstr ""
+
+#: template/registration_page.php:148
+msgid "SUCCESS"
+msgstr ""
+
+#: template/registration_page.php:148
+msgid "Registration Successfully Completed.Please Check Email"
+msgstr ""
+
+#: template/registration_page.php:161
+msgid "Available Plans"
+msgstr ""
+
+#: template/registration_page.php:170
+msgid "Ads"
+msgstr ""
+
+#: template/registration_page.php:195
+msgid "Plan validity"
+msgstr ""
+
+#: template/registration_page.php:196
+msgid "Ads validity"
+msgstr ""
+
+#: template/registration_page.php:197
+msgid "Sign up"
+msgstr ""
+
+#: template/registration_page.php:204
+msgid "No Plans Added to subscribe, Please visit again later."
+msgstr ""
+
+#: template/registration_page.php:213
+msgid "You can also reach us by"
+msgstr ""
+
+#: template/registration_page.php:217
+msgid "Number"
+msgstr ""
+
+#: template/registration_page.php:245
+msgid "Registration Form"
+msgstr ""
+
+#: template/registration_page.php:251
+msgid "Plan Selected"
+msgstr ""
+
+#: template/registration_page.php:257
+msgid "I am"
+msgstr ""
+
+#: template/registration_page.php:260
+msgid "Owner"
+msgstr ""
+
+#: template/registration_page.php:332
+msgid "Your Account will be activated once admin activates."
+msgstr ""
+
+#: template/registration_page.php:335
+msgid "Close"
+msgstr ""
+
+#: template/registration_page.php:336
+msgid "Sign Up"
+msgstr ""
+
+#: template/searched_properties.php:37
+msgid "Search List"
+msgstr ""
+
+#: template/single-property.php:77
+msgid "Previous"
+msgstr ""
+
+#: template/single-property.php:81
+msgid "Next"
+msgstr ""
+
+#: template/single-property.php:96
+msgid "Description"
+msgstr ""
+
+#: template/single-property.php:425
+msgid "Addition Features"
+msgstr ""
+
+#: template/single-property.php:455
+msgid "Details"
+msgstr ""
+
+#: template/single-property.php:460
+msgid "Price:"
+msgstr ""
+
+#: template/single-property.php:465
+msgid "Address:"
+msgstr ""
+
+#: template/single-property.php:471
+msgid "Area:"
+msgstr ""
+
+#: template/single-property.php:501
+msgid "Inquiry From"
+msgstr ""
+
+#: template/single-property.php:518
+msgid "Subject"
+msgstr ""
+
+#: template/single-property.php:533
+msgid "Search Property"
+msgstr ""
+
+#: template/single-property.php:550
+msgid " -- Select Location -- "
+msgstr ""
+
+#: template/single-property.php:563
+msgid " -- Select Type -- "
+msgstr ""
+
+#: template/single-property.php:577
+msgid "Vacation Rent"
+msgstr ""
+
+#: template/view_profile.php:27
+msgid "AGENT"
+msgstr ""
+
+#: template/view_profile.php:34
+msgid "Hello I'am"
+msgstr ""
+
+#: template/view_profile.php:49
+msgid "Personal Info"
+msgstr ""
+
+#: template/view_profile.php:52
+msgid "Website"
+msgstr ""
+
+#: template/view_profile.php:55
+msgid "Mobile"
+msgstr ""
+
+#: template/view_profile.php:58
+msgid "Email-id"
+msgstr ""

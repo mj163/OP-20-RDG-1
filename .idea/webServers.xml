@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f64805cc-21ac-401f-ba6d-69bf34132f36" name="Local FlyWheel Server" url="http://vacation-rentals.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="8038ad9f-56c3-4002-84fe-9b120a4c50c8" name="localflywheel@OP-20" url="https://op20-merge.dev">
+        <fileTransfer port="0" mountedRoot="$PROJECT_DIR$" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

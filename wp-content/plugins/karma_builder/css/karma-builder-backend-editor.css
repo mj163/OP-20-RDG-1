@@ -1,0 +1,253 @@
+/*----------------------------------------------------
+ *
+ * Karma Builder - A Visual Composer Extension Plugin for Karma WP-Theme
+ * by TrueThemes
+ *
+ * http://codecanyon.net/user/TrueThemes/portfolio
+ *
+ * provides extra styling for "live preview" of elements
+ * within the wordpress content editor
+ *
+ * @since Karma Builder 1.0
+ *
+*
+----------------------------------------------------*/
+.true-alert-box .wpb_vc_param_value.font_size,
+.true-alert-box .wpb_vc_param_value.closeable,
+.true-alert-box .wpb_vc_param_value.style,
+.true-alert-box h4.wpb_element_title,
+.true-button h4.wpb_element_title,
+.true-button .wpb_vc_param_value.style,
+.true-button .wpb_vc_param_value.color,
+.true-button .wpb_vc_param_value.size,
+.true-dropcap .wpb_vc_param_value.dropcap,
+.true-dropcap .wpb_vc_param_value.style,
+.true-dropcap .wpb_vc_param_value.color,
+.true-feature-list .wpb_vc_param_value.border_width,
+.true-feature-list .wpb_vc_param_value.content,
+.true-feature-list .wpb_vc_param_value.lightbox_content,
+.true-feature-list .wpb_vc_param_value.lightbox_description,
+.true-icon-box h4.wpb_element_title,
+.true-icon-box .wpb_vc_param_value.content,
+.true-icon-box .wpb_vc_param_value.box_bg_color,
+.true-icon-box .wpb_vc_param_value.icon_color,
+.true-icon-box .wpb_vc_param_value.icon_bg_color,
+.true-icon-box .wpb_vc_param_value.vc_link,
+.true-icon-box .wpb_vc_param_value.icon_size,
+.true-icon-box .vc_admin_label.admin_label_type,
+.true-icon-png .wpb_vc_param_value.content,
+.true-icon-png h4.wpb_element_title,
+.true-icon-text .wpb_vc_param_value.content,
+.true-number-counter h4.wpb_element_title,
+.true-pricing-box .wpb_vc_param_value.price,
+.true-pricing-box .wpb_vc_param_value.currency,
+.true-pricing-box .wpb_vc_param_value.plan,
+.true-pricing-box .wpb_vc_param_value.term,
+.true-pricing-box .wpb_vc_param_value.content,
+.true-pricing-box .wpb_vc_param_value.button_label,
+.true-pricing-box .wpb_vc_param_value.button_color,
+.true-pricing-box .wpb_vc_param_value.button_size,
+.true-progress-bar h4.wpb_element_title,
+.true-service-list .wpb_vc_param_value.border_width,
+.true-service-list .wpb_vc_param_value.content,
+.true-service-list .wpb_vc_param_value.lightbox_content,
+.true-service-list .wpb_vc_param_value.lightbox_description,
+.true-social-icons .wpb_vc_param_value.design,
+.true-social-icons .wpb_vc_param_value.icon_style,
+.true-social-icons .wpb_vc_param_value.vc_link,
+.true-social-icons .wpb_vc_param_value.show_title,
+.true-social-icons .wpb_vc_param_value.target,
+.true-social-icons .wpb_vc_param_value.rss,
+.true-social-icons .wpb_vc_param_value.rss_title,
+.true-social-icons .wpb_vc_param_value.twitter,
+.true-social-icons .wpb_vc_param_value.twitter_title,
+.true-social-icons .wpb_vc_param_value.facebook,
+.true-social-icons .wpb_vc_param_value.facebook_title,
+.true-social-icons .wpb_vc_param_value.email,
+.true-social-icons .wpb_vc_param_value.email_title,
+.true-social-icons .wpb_vc_param_value.flickr,
+.true-social-icons .wpb_vc_param_value.flickr_title,
+.true-social-icons .wpb_vc_param_value.youtube,
+.true-social-icons .wpb_vc_param_value.youtube_title,
+.true-social-icons .wpb_vc_param_value.linkedin,
+.true-social-icons .wpb_vc_param_value.linkedin_title,
+.true-social-icons .wpb_vc_param_value.pinterest,
+.true-social-icons .wpb_vc_param_value.pinterest_title,
+.true-social-icons .wpb_vc_param_value.instagram,
+.true-social-icons .wpb_vc_param_value.instagram_title,
+.true-social-icons .wpb_vc_param_value.foursquare,
+.true-social-icons .wpb_vc_param_value.foursquare_title,
+.true-social-icons .wpb_vc_param_value.delicious,
+.true-social-icons .wpb_vc_param_value.delicious_title,
+.true-social-icons .wpb_vc_param_value.digg,
+.true-social-icons .wpb_vc_param_value.digg_title,
+.true-social-icons .wpb_vc_param_value.google,
+.true-social-icons .wpb_vc_param_value.google_title,
+.true-social-icons .wpb_vc_param_value.dribbble,
+.true-social-icons .wpb_vc_param_value.dribbble_title,
+.true-social-icons .wpb_vc_param_value.skype,
+.true-social-icons .wpb_vc_param_value.skype_title {
+  display: none !important;
+}
+.wpb_orbit_alert .true-notification {
+  margin: 0;
+  width: 95%;
+}
+.wpb_orbit_alert .true-notification p {
+  padding: 8px 16px 16px 42px;
+  background-position: 14px 40% !important;
+}
+.wpb_orbit_alert .true-notification .closeable-x {
+  background: none;
+}
+.wpb_content_element.true-icon-text {
+  margin-left: 0px;
+}
+.wpb_content_element.true-icon-text .preview_element.true-icon-wrap {
+  margin-top: 20px;
+}
+.true-icon-png .wpb_vc_param_value.icon {
+  font-weight: bold;
+  padding-bottom:7px;
+}
+.preview_element h3.true-counter {
+  font-size: 40px !important;
+}
+.preview_element.true-social {
+  height: 70px;
+}
+.preview_element.true-social a {
+  text-decoration: none;
+}
+.true-icon-png a {
+  text-decoration: none;
+  color: #444;
+}
+.wpb-select.icon_size {
+  height: 38px;
+}
+.wpb-select.icon_size option {
+  font-size: 13px !important;
+}
+.wpb_vc_param_value.wpb-textarea_raw_html.textarea_raw_html {
+  height:60px;
+}
+.preview_element.true-features,
+.preview_element.true-services {
+  margin-top: 22px;
+}
+.preview_element.true-features .fa {
+  margin-right:14px;
+}
+.true-icon-png {padding-left: 0;}
+
+/*----------------------------*/
+/* Columns
+/*----------------------------*/
+.clear {
+	clear: both;
+}
+.wpb_one_half,
+.wpb_one_third,
+.wpb_one_fourth,
+.wpb_one_fifth,
+.wpb_one_sixth,
+.wpb_three_fourth,
+.wpb_two_thirds {
+	float: left;
+	margin-right: 30px;	
+}
+.wpb_one_half_last,
+.wpb_one_third_last,
+.wpb_one_fourth_last,
+.wpb_one_fifth_last,
+.wpb_one_sixth_last,
+.wpb_three_fourth_last,
+.wpb_two_thirds_last {
+	float: right;
+	margin: 0;	
+}
+/*------------*/
+/* one_half
+/*------------*/
+.wpb_one_half,
+.wpb_one_half_last {
+	width: 50%;
+}
+/*------------*/
+/* one_third
+/*------------*/
+.wpb_one_third,
+.wpb_one_third_last {
+	width: 33.3%;	
+}
+/*------------*/
+/* one_fourth
+/*------------*/
+.wpb_one_fourth {
+	margin-right: 36px;
+}
+.wpb_one_fourth,
+.wpb_one_fourth_last {
+	width: 25%;	
+}
+/*------------*/
+/* one_fifth
+/*------------*/
+.wpb_one_fifth {
+	margin-right: 23px;
+}
+.wpb_one_fifth,
+.wpb_one_fifth_last {
+	width: 20%;
+}
+/*------------*/
+/* one_sixth
+/*------------*/
+.wpb_one_sixth {
+	margin-right: 20px;
+}
+.wpb_one_sixth,
+.wpb_one_sixth_last {
+	width: 16.6%;
+}
+/*------------*/
+/* two_thirds
+/*------------*/
+.wpb_two_thirds,
+.wpb_two_thirds_last {
+	width: 66.6%;
+}
+/*---------------*/
+/* three_fourth
+/*---------------*/
+.wpb_three_fourth {
+	width: 75%;
+}
+.wpb_three_fourth_last {
+	width: 72%;
+}
+/*---------------*/
+/* Icon boxes
+/*---------------*/
+div.wpb_element_wrapper .true-icon-box {
+  float: none !important;
+  margin: 0 !important;
+}
+div.wpb_element_wrapper .true-icon-box:hover {
+  margin: 0 !important;
+}
+div.wpb_element_wrapper .true-icon-box,
+div.wpb_element_wrapper .true-icon-box:hover {
+  margin: 0 !important;
+  line-height: 1.8;
+  padding: 10px 5px !important;
+}
+div.wpb_element_wrapper .true-icon-box .fa-stack {
+  font-size: 35px;
+  height: 55px;
+}
+div.wpb_element_wrapper .true-icon-box h3 {
+  font-size: 18px !important;
+  margin-bottom: 5px !important;
+}

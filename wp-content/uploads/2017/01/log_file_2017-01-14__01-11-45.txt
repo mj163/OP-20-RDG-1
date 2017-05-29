@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="en"> <![endif]-->
+<!--[if !IE]><!--><html lang="en-US"> <!--<![endif]-->
+<head>
+<!-- un-comment and delete 2nd meta below to disable zoom
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://rdolcegroup-thkarma.flywheelsites.com/xmlrpc.php">
+<link rel="alternate" type="application/rss+xml" title="TH-Karma" href="http://rdolcegroup-thkarma.flywheelsites.com/?feed=rss2" />
+<link href='//fonts.googleapis.com/css?family=Open+Sans|Lato' rel='stylesheet' type='text/css'>
+
+<title>TH-Karma &#8211; Just another WordPress site</title>
+<link rel='dns-prefetch' href='//rdolcegroup-thkarma.flywheelsites.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TH-Karma &raquo; Feed" href="http://rdolcegroup-thkarma.flywheelsites.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="TH-Karma &raquo; Comments Feed" href="http://rdolcegroup-thkarma.flywheelsites.com/?feed=comments-rss2" />
+<link rel='stylesheet' id='bbp-default-css'  href='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.12-6148' type='text/css' media='screen' />
+<link rel='stylesheet' id='karma-builder-css'  href='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/karma_builder/css/karma-builder.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.0.3' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/style.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='primary-color-css'  href='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/css/karma-political-blue.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css'  href='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/css/_woocommerce.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mobile-css'  href='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/css/_mobile.css?ver=4.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css'  href='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma-child-theme/style.css?ver=4.7.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script><script>jQueryWP = jQuery;</script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/new-wordpress\/wp-content\/uploads\/2017\/01\/log_file_2017-01-14__01-11-45.txt\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/rdolcegroup-thkarma.flywheelsites.com","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=5.1.1'></script>
+<link rel='https://api.w.org/' href='http://rdolcegroup-thkarma.flywheelsites.com/?rest_route=/' />
+	<meta property="og:title" content="Hello world!"/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content="http://rdolcegroup-thkarma.flywheelsites.com/?p=1"/>
+	<meta property="og:description" content="Welcome to WordPress. This is your first post. Edit or delete it, then start writing!"/>
+	<meta property="og:site_name" content="TH-Karma"/>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><style type='text/css'>
+
+#tt-slider-full-width {
+	background-image: url(http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/images/_global/);
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+
+body,
+.testimonials blockquote,
+.testimonials_static blockquote {
+	font-family: 'Open Sans', Arial, sans-serif;
+}
+#tt-parallax-banner h1,
+#tt-parallax-banner h2,
+#tt-parallax-banner h3,
+#tt-parallax-banner h4,
+#tt-parallax-banner h5,
+#tt-parallax-banner h6 {
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-weight: 600;
+}
+#tt-parallax-banner h1,
+#tt-parallax-banner h2,
+#tt-parallax-banner h3 {
+	font-size: 28px;
+}
+h1, h2, h3, h4, h5, #footer h3, #menu-main-nav li strong, #wrapper.tt-uberstyling-enabled .ubermenu ul.ubermenu-nav > li.ubermenu-item > a span.ubermenu-target-title, p.footer-callout-heading, #tt-mobile-menu-button span , .post_date .day, .karma_mega_div span.karma-mega-title {font-family: 'Lato', Arial, sans-serif;}
+h1, h2, h3, h4, h5, h6 {margin-bottom:12px;}
+p {line-height: 2;margin-bottom:20px;font-size: 13px;}
+#content ol li,
+#content ul li,
+.content_full_width ol li,
+.content_full_width ul li {font-size: 13px;}
+#content p.callout2 span {font-size: 15px;}
+.callout2,
+.callout-wrap span {line-height:1.8;}
+.slider-content-main p {font-size:1em;line-height:2;margin-bottom: 14px;}
+.jquery3-slider-wrap .slider-content-main p {font-size:1.1em;line-height:1.8em;}
+.callout-wrap span, .portfolio_content h3 {font-size: 1.4em;}
+.testimonials blockquote, .testimonials_static blockquote, p.team-member-title {font-size: 13px;font-style: normal;}
+.ka_button, .ka_button:hover {letter-spacing: 0.6px;}
+#footer h3, #menu-main-nav li strong, #wrapper.tt-uberstyling-enabled .ubermenu ul.ubermenu-nav > li.ubermenu-item > a span.ubermenu-target-title {letter-spacing: 0.7px;font-size:12.4px;}
+#footer h3 {font-weight: 300;}
+#footer p.footer-callout-heading {font-size: 18px;}
+#footer .blogroll a,
+#footer ul.tt-recent-posts h4 {
+	font-weight: normal;
+	color:rgba(255,255,255,0.8);
+}
+#footer ul.tt-recent-posts h4,
+#sidebar ul.tt-recent-posts h4 {
+	font-size: 13px !important;	
+}
+.tools .breadcrumb .current_crumb:after, .woocommerce-page .tt-woocommerce .breadcrumb span:last-child:after {bottom: -16px;}
+.post_title span {font-weight: normal;}
+.post_date .day {font-size:28px;font-weight:normal;}
+.post_date .month {font-size: 15px;margin-top:-15px;}
+.tools .search-form {margin-top: 1px;}
+.accordion .opener strong {font-weight: normal;}
+.tools .breadcrumb a:after {top:0;}
+p.comment-author-about {font-weight: bold;}
+
+</style>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<!--[if IE 9]>
+<style media="screen">
+#footer,
+.header-holder
+ {
+      behavior: url(http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/js/PIE/PIE.php);
+}
+</style>
+<![endif]-->
+
+<!--[if lte IE 8]>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/js/html5shiv.js'></script>
+<style media="screen">
+a.button,
+a.button:hover,
+ul.products li.product a img,
+div.product div.images img,
+span.onsale,
+#footer,
+.header-holder,
+#horizontal_nav ul li,
+#horizontal_nav ul a,
+#tt-gallery-nav li,
+#tt-gallery-nav a,
+ul.tabset li,
+ul.tabset a,
+.karma-pages a,
+.karma-pages span,
+.wp-pagenavi a,
+.wp-pagenavi span,
+.post_date,
+.post_comments,
+.ka_button,
+.flex-control-paging li a,
+.colored_box,
+.tools,
+.karma_notify
+.opener,
+.callout_button,
+.testimonials {
+      behavior: url(http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/js/PIE/PIE.php);
+}
+</style>
+<![endif]-->
+
+<!--[if IE]>
+<link rel="stylesheet" href="http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/css/_internet_explorer.css" media="screen"/>
+<![endif]-->
+
+
+
+
+</head>
+
+<body class="home blog karma-body-mega-menu karma-no-content-gradient karma-no-mobile-submenu karma-header-gradient wpb-js-composer js-comp-ver-5.1.1 vc_responsive" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div id="tt-wide-layout" class="content-style-default">
+	<div id="wrapper">
+		<header role="banner" id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader" >
+<div class="top-block">
+<div class="top-holder">
+
+    
+  <div class="toolbar-left">
+  <form role="search" method="get" action="http://rdolcegroup-thkarma.flywheelsites.com/" class="search-form">
+	<fieldset>
+    	<label for="s">Search this website</label>
+		<span class="text">
+			<input type="text" name="s" class="s" id="s" value="Search" onfocus="this.value=(this.value=='Search') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Search' : this.value;" />
+            <input type="submit" value="search" class="searchsubmit" />
+		</span>
+	</fieldset>
+</form>				<p class="top-block-title">Recent Posts</p>		<ul>
+					<li>
+				<a href="http://rdolcegroup-thkarma.flywheelsites.com/?p=1">Hello world!</a>
+						</li>
+				</ul>
+				<p class="top-block-title">Recent Comments</p><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>A WordPress Commenter</a></span> on <a href="http://rdolcegroup-thkarma.flywheelsites.com/?p=1#comment-1">Hello world!</a></li></ul><p class="top-block-title">Archives</p>		<ul>
+			<li><a href='http://rdolcegroup-thkarma.flywheelsites.com/?m=201704'>April 2017</a></li>
+		</ul>
+<p class="top-block-title">Categories</p>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://rdolcegroup-thkarma.flywheelsites.com/?cat=1" >Uncategorized</a>
+</li>
+		</ul>
+<p class="top-block-title">Meta</p>			<ul>
+						<li><a href="http://rdolcegroup-thkarma.flywheelsites.com/wp-login.php">Log in</a></li>
+			<li><a href="http://rdolcegroup-thkarma.flywheelsites.com/?feed=rss2">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://rdolcegroup-thkarma.flywheelsites.com/?feed=comments-rss2">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			  </div><!-- END toolbar-left -->
+  
+  <div class="toolbar-right">
+    </div><!-- END toolbar-right -->
+
+</div><!-- END top-holder -->
+</div><!-- END top-block -->
+
+<div class="header-holder ">
+<div class="header-overlay">
+<div class="header-area">
+
+<a href="http://rdolcegroup-thkarma.flywheelsites.com" class="logo"><img src="" alt="TH-Karma" /></a>
+
+
+
+    <nav role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+	    <ul id="menu-main-nav" class="sf-menu">
+	    <div class="karma_mega"><ul>
+<li id="menu-item-2" class=""><a><span><strong></strong></span></a></li>
+</ul></div>
+	    </ul>
+    </nav>
+</div><!-- END header-area -->
+</div><!-- END header-overlay -->
+</div><!-- END header-holder -->
+</header><!-- END header -->
+
+
+<div id="main">
+	
+	<div class="main-area">
+		
+
+  <main role="main" id="content" class="content_blog">
+    
+<article class="blog_wrap  post-1 post type-post status-publish format-standard hentry category-uncategorized tt-blog-no-feature" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost" id="post-1">
+<div class="post_title">
+
+<h2 class="entry-title" itemprop="headline"><a href="http://rdolcegroup-thkarma.flywheelsites.com/?p=1" title="Hello world!">Hello world!</a></h2> 
+<p class="posted-by-text"><span>Posted by:</span> <span class="vcard author" itemscope="itemscope" itemtype="http://schema.org/Person" itemprop="author"><span class="fn"><a href="http://rdolcegroup-thkarma.flywheelsites.com/?author=1" title="Posts by mrsdo" rel="author">mrsdo</a></span></span></p> 
+</div><!-- END post_title -->
+
+<div class="post_content">
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<a class="ka_button small_button small_black" href="http://rdolcegroup-thkarma.flywheelsites.com/?p=1" rel="bookmark" title="Continue reading Hello world!">
+	<span>Continue Reading &rarr;</span></a>
+<div class="post_date" datetime="April 14, 2017" itemprop="datePublished">
+    <span class="day date updated">14</span>
+    <br />
+    <span class="month">APR</span>
+    <br /> 
+    <span class="year">2017</span>
+</div><!-- END post_date -->
+
+<div class="post_comments">
+	<a href="http://rdolcegroup-thkarma.flywheelsites.com/?p=1#post-comments"><span>1</span></a>
+</div><!-- END post_comments -->
+
+
+</div><!-- END post_content -->
+
+<div class="post_footer">
+            <p class="post_cats"><a href="http://rdolcegroup-thkarma.flywheelsites.com/?cat=1" rel="category">Uncategorized</a></p>
+        
+            </div><!-- END post_footer -->
+</article><!-- END blog_wrap --></main><!-- END main #content -->
+
+<aside role="complementary" id="sidebar" class="sidebar_blog" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+</aside><!-- END sidebar -->
+</div><!-- END main-area -->
+
+
+<div id="footer-top">&nbsp;</div><!-- END footer-top -->
+</div><!-- END main -->
+
+        <footer role="contentinfo" id="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+        	            <div id="footer-callout" >
+            	<div id="footer-callout-content">
+                	                    	<p class="footer-callout-heading">I'm a Footer Callout</p>
+			<p class="footer-callout-text">Edit me or disable me in the WP-Dashboard under Appearance > Site Options > Footer</p>                                    </div><!-- END footer-callout-content -->
+            </div><!-- END footer-callout -->
+                        
+            <div class="footer-overlay">
+				                
+                <div class="footer-content">
+                    <div class="one_third tt-column"></div><div class="one_third tt-column"></div><div class="one_third_last tt-column"></div>                </div><!-- END footer-content -->
+
+                            </div><!-- END footer-overlay -->  
+        
+        <div id="footer_bottom">
+            <div class="info">
+            	                <div id="foot_left">&nbsp;                    Add Copyright in Wordpress Dashboard: <a href="http://rdolcegroup-thkarma.flywheelsites.com/wp-admin/customize.php">Appearance > Customize</a>                    
+                </div><!-- END foot_left -->
+                              
+                <div id="foot_right">
+                           
+                </div><!-- END foot_right -->
+            </div><!-- END info -->
+        </div><!-- END footer_bottom -->
+                </footer><!-- END footer -->
+        
+	</div><!-- END wrapper -->
+</div><!-- END tt-layout -->
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.12-6148'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/karma_builder/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/karma_builder/js/appear.min.js'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/karma_builder/js/easy-pie-chart.min.js'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/karma_builder/js/karma-builder.js'></script>
+<script type='text/javascript' src='//rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='//rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/new-wordpress\/wp-content\/uploads\/2017\/01\/log_file_2017-01-14__01-11-45.txt\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/new-wordpress\/wp-content\/uploads\/2017\/01\/log_file_2017-01-14__01-11-45.txt\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var php_data = {"mobile_menu_text":"Main Menu","mobile_sub_menu_text":"More in this section...","mobile_horz_dropdown":"false","karma_jquery_slideshowSpeed":"8000","karma_jquery_pause_hover":"false","karma_jquery_randomize":"false","karma_jquery_directionNav":"true","karma_jquery_animation_effect":"fade","karma_jquery_animationSpeed":"600","testimonial_slideshowSpeed":"8000","testimonial_pause_hover":"false","testimonial_randomize":"false","testimonial_directionNav":"true","testimonial_animation_effect":"fade","testimonial_animationSpeed":"600","sticky_sidebar":"true","sticky_menu_one":"false","sticky_menu_two":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/js/custom-main.js'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/js/superfish.js'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/js/retina.js'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/js/jquery.flexslider.js'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/js/jquery.fitvids.js'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=5.1.1'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-content/themes/karma/js/jquery.prettyPhoto.js'></script>
+<script type='text/javascript' src='http://rdolcegroup-thkarma.flywheelsites.com/wp-includes/js/wp-embed.min.js?ver=4.7.3'></script>
+<a href="#0" class="karma-scroll-top"><i class="fa fa-chevron-up"></i></a>
+</body>
+</html>
